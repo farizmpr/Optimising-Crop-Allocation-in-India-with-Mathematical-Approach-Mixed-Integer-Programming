@@ -16,3 +16,5 @@ We utilize Mixed Integer Programming to develop two models: Model 1 (M1) ignores
 - Interdisciplinary Collaboration: Foster partnerships among experts in agriculture, soil science, climatology, and economics to refine and advance agricultural models.
 ## Limitations
 The project acknowledges challenges such as technological access for farmers, water scarcity, and potential impacts on crop diversity. Addressing these limitations is essential for the comprehensive application of our findings.
+## Results
+![image](https://github.com/farizmpr/Optimising-Crop-Allocation-in-India-with-Mathematical-Approach-Mixed-Integer-Programming/assets/32903342/c4c8e3c2-f4b0-434d-9cdc-38997f352b4b)
